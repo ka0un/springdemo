@@ -6,6 +6,7 @@ import org.apache.ibatis.annotations.*;
 import java.util.List;
 
 //mapper is a interface provided by MyBatis for sql statements
+//docs : https://mybatis.org/mybatis-3/java-api.html
 
 @Mapper
 public interface UserMapper {
